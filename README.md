@@ -3,14 +3,13 @@ An implementation for "ImVerde: Vertex-Diminished Random Walk for Learning Imbal
 
 ## Environment Requirements
 The code is adapted from [[Revisiting Semi-Supervised Learning with Graph Embeddings]](https://github.com/kimiyoung/planetoid). It has been tested under Python 3.6.5. The required packages are listed as follows:
-* tensorflow == 1.12.0
-* numpy == 1.15.4
-* scipy == 1.1.0
-* sklearn == 0.20.0
-* networkx == 2.3
+* numpy == 1.17.3
+* scipy == 1.3.1
+* Lasagne == 0.2.dev1
+* Theano == 1.0.4
 
 ## Data sets
-We used four data sets in our experiments: [Cora, Citeseer, Pubmed](https://github.com/kimiyoung/planetoid/tree/master/data).
+We used three public data sets in our experiments: [Cora, Citeseer, Pubmed](https://github.com/kimiyoung/planetoid/tree/master/data).
 
 ## Run the Codes
 ```
