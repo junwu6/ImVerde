@@ -123,7 +123,6 @@ class ImVerde(base_model):
         while True:
             ind = np.random.permutation(num_ver)  # change the array order
             i = 0
-            print(i)
             while i < ind.shape[0]:
                 g, gy = [], []
                 j = min(ind.shape[0], i + self.g_batch_size)
