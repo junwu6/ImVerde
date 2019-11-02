@@ -1,5 +1,5 @@
 # ImVerde
-An implementation for "ImVerde: Vertex-Diminished Random Walk for Learning Imbalanced Network Representation" (Big Data'18). [[Paper]](https://ieeexplore.ieee.org/document/8622603)
+An implementation for "ImVerde: Vertex-Diminished Random Walk for Learning Imbalanced Network Representation" (Big Data'18). [[Paper]](https://ieeexplore.ieee.org/document/8622603) [[arXiv]](https://arxiv.org/pdf/1804.09222.pdf)
 
 ## Environment Requirements
 The code has been tested under Python 3.6.5. The required packages are as follows:
