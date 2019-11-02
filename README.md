@@ -5,6 +5,7 @@ An implementation for "ImVerde: Vertex-Diminished Random Walk for Learning Imbal
 The code is adapted from [[Revisiting Semi-Supervised Learning with Graph Embeddings]](https://github.com/kimiyoung/planetoid). It has been tested under Python 3.6.5. The required packages are listed as follows:
 * numpy == 1.17.3
 * scipy == 1.3.1
+* sklearn ==0.21.3
 * Lasagne == 0.2.dev1
 * Theano == 1.0.4
 
