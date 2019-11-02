@@ -14,7 +14,7 @@ We used three public data sets in our experiments: [Cora, Citeseer, Pubmed](http
 
 ## Run the Codes
 ```
-python main.py
+python runMe.py
 ```
 
 ## Acknowledgement
