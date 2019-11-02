@@ -2,7 +2,7 @@
 An implementation for "ImVerde: Vertex-Diminished Random Walk for Learning Imbalanced Network Representation" (Big Data'18). [[Paper]](https://ieeexplore.ieee.org/document/8622603) [[arXiv]](https://arxiv.org/pdf/1804.09222.pdf)
 
 ## Environment Requirements
-The code is adapted from [[Revisiting Semi-Supervised Learning with Graph Embeddings]](https://github.com/kimiyoung/planetoid). It has been tested under Python 3.6.5. The required packages are as follows:
+The code is adapted from [[Revisiting Semi-Supervised Learning with Graph Embeddings]](https://github.com/kimiyoung/planetoid). It has been tested under Python 3.6.5. The required packages are listed as follows:
 * tensorflow == 1.12.0
 * numpy == 1.15.4
 * scipy == 1.1.0
